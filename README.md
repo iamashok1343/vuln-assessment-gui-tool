@@ -21,5 +21,7 @@ A simple GUI-based vulnerability assessment tool written in Python. Designed for
 ## Installation
 
 git clone https://github.com/iamashok1343/vuln-assessment-gui-tool.git
+
 cd vuln-assessment-gui-tool
+
 pip install -r requirements.txt
