@@ -1,2 +1,26 @@
 # vuln-assessment-gui-tool
-vuln-assessment-gui-tool/ │ ├── README.md ├── vuln_tool_gui.py ├── requirements.txt └── LICENSE
+
+# Vulnerability Assessment GUI Tool
+
+A simple GUI-based vulnerability assessment tool written in Python. Designed for use on Kali Linux.
+
+## Features
+
+- Port scanning (common ports)
+- Outdated Python package detection
+- Default credentials checker
+- OS fingerprinting
+- Tkinter GUI
+
+## Requirements
+
+- Python 3
+- pip
+- tkinter (pre-installed in most systems)
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/vuln-assessment-gui-tool.git
+cd vuln-assessment-gui-tool
+pip install -r requirements.txt
